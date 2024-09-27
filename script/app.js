@@ -91,8 +91,7 @@ topMenuEl.addEventListener("click", function (e) {
   }
 });
 
-
-Function to build the submenu
+// Function to build the submenu
 function buildSubMenu(subLinks) {
   subMenuEl.innerHTML = ""; // Clear any existing sublinks
 
